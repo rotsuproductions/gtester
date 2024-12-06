@@ -1,0 +1,12 @@
+{
+  "name": "GTester",
+  "short_name": "GTester",
+  "id": "com.rotsuproductions.gtester",
+  "description": "",
+  "orientation": "portrait",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
